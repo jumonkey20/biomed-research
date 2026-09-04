@@ -1,0 +1,17 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM      1  O   UNL     1      47.266   3.974  82.690  0.00  0.00      1TUP O  
+ATOM      2  N   UNL     1      49.498   6.708  81.918  0.00  0.00      1TUP N  
+ATOM      3  C   UNL     1      49.201   5.455  82.687  0.00  0.00      1TUP C  
+ATOM      4  C   UNL     1      47.148   5.868  81.204  0.00  0.00      1TUP C  
+ATOM      5  C   UNL     1      48.109   5.890  80.011  0.00  0.00      1TUP C  
+ATOM      6  C   UNL     1      47.064   7.259  81.841  0.00  0.00      1TUP C  
+ATOM      7  C   UNL     1      49.468   6.459  80.454  0.00  0.00      1TUP C  
+ATOM      8  C   UNL     1      48.479   7.755  82.186  0.00  0.00      1TUP C  
+ATOM      9  C   UNL     1      47.808   4.982  82.244  0.00  0.00      1TUP C  
+ATOM     10  C   UNL     1      49.194   5.706  84.205  0.00  0.00      1TUP C  
+ATOM     11  O   UNL     1      50.496   5.462  84.695  0.00  0.00      1TUP O  
+ATOM     12  H   UNL     1      50.897   4.774  84.136  0.00  0.00      1TUP H  
+ATOM     13  C   UNL     1      50.231   4.348  82.392  0.00  0.00      1TUP C  
+ATOM     14  O   UNL     1      49.942   3.248  83.228  0.00  0.00      1TUP O  
+ATOM     15  H   UNL     1      50.313   2.452  82.810  0.00  0.00      1TUP H  
+TER      16      UNL     1 
