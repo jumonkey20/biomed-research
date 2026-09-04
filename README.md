@@ -18,3 +18,31 @@ biomed-research/
 ├── results/              # Organized analysis output files
 ├── scripts/              # Custom automation or analysis scripts
 └── README.md             # Project documentation
+
+
+
+If you want to replicate or run this virtual screening workflow using the PyRx graphical interface, follow these steps:
+
+1. Load Molecules
+Open PyRx and navigate to the AutoDock tab.
+
+Click Add Ligand to import your prepared ligand file (.pdbqt).
+
+Click Add Macromolecule to import your target protein receptor file (.pdbqt, e.g., 1TUP).
+
+2. Select Molecules for Docking
+Go to the Select Molecules panel.
+
+Check the boxes next to your target ligand and macromolecule in the Navigator tree.
+
+Click Forward to proceed to the Vina Wizard search space setup.
+
+3. Define the Search Space (Grid Box)
+Adjust the grid box dimensions and center coordinates in the 3D viewer to cover the active binding site of your protein.
+
+Click Forward to execute the AutoDock Vina docking calculation.
+
+4. Analyze & Export Results
+Once the progress bar completes, view the Binding Affinity (kcal/mol) table in the results panel.
+
+Export your binding affinity scores and download your docked conformations (.sdf or .pdb) into your data/processed/ directory.
