@@ -1,0 +1,13 @@
+# Exclude heavy trajectory/binary files from git tracking
+*.xtc
+*.trr
+*.dcd
+*.nc
+*.dlg
+*.bam
+
+# Logs and system cache
+*.log
+*.out
+__pycache__/
+.DS_Store
