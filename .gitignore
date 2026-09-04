@@ -1,0 +1,27 @@
+# Exclude heavy trajectory and simulation binary files
+*.xtc
+*.trr
+*.dcd
+*.nc
+*.dlg
+*.bam
+*.bai
+*.tiff
+*.svs
+
+# Log outputs and temporary execution files
+*.log
+*.out
+*.tmp
+*.bak
+
+# Python system cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# System / OS files
+.DS_Store
+Thumbs.db
+~$*.docx
+~$*.xlsx
